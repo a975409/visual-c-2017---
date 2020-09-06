@@ -1,0 +1,18 @@
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\bin\Debug\ex07_03.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\bin\Debug\ex07_03.exe
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\bin\Debug\ex07_03.pdb
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\obj\Debug\ex07_03.csprojResolveAssemblyReference.cache
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\obj\Debug\ex07_03.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\obj\Debug\ex07_03.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\obj\Debug\ex07_03.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\obj\Debug\ex07_03.exe
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_03\obj\Debug\ex07_03.pdb
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\bin\Debug\ex07_03.exe.config
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\obj\Debug\ex07_03.exe
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\obj\Debug\ex07_03.pdb
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\bin\Debug\ex07_03.exe
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\bin\Debug\ex07_03.pdb
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\obj\Debug\ex07_03.csprojResolveAssemblyReference.cache
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\obj\Debug\ex07_03.Form1.resources
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\obj\Debug\ex07_03.Properties.Resources.resources
+D:\C#練習題\001 - C# 2017 基礎必修課 (2017 習解)-0405\ch07習題\ex07_03\obj\Debug\ex07_03.csproj.GenerateResource.Cache

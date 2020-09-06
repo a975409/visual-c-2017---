@@ -1,0 +1,10 @@
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\bin\Debug\LeapYear.exe.config
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\bin\Debug\LeapYear.exe
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\bin\Debug\LeapYear.pdb
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\obj\Debug\LeapYear.csprojAssemblyReference.cache
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\obj\Debug\LeapYear.Form1.resources
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\obj\Debug\LeapYear.Properties.Resources.resources
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.GenerateResource.cache
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\obj\Debug\LeapYear.csproj.CoreCompileInputs.cache
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\obj\Debug\LeapYear.exe
+C:\Users\小小夢蘿莉\Desktop\LeapYear\LeapYear\obj\Debug\LeapYear.pdb

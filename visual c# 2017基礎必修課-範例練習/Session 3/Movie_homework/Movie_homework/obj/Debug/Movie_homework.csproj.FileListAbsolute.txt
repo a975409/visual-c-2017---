@@ -1,0 +1,10 @@
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\bin\Debug\Movie_homework.exe.config
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\bin\Debug\Movie_homework.exe
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\bin\Debug\Movie_homework.pdb
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\obj\Debug\Movie_homework.csprojAssemblyReference.cache
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\obj\Debug\Movie_homework.Form1.resources
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\obj\Debug\Movie_homework.Properties.Resources.resources
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\obj\Debug\Movie_homework.csproj.GenerateResource.cache
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\obj\Debug\Movie_homework.csproj.CoreCompileInputs.cache
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\obj\Debug\Movie_homework.exe
+C:\Users\小小夢蘿莉\Desktop\Movie_homework\Movie_homework\obj\Debug\Movie_homework.pdb

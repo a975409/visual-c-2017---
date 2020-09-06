@@ -1,0 +1,20 @@
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\bin\Debug\F2C.exe.config
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\bin\Debug\F2C.exe
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\bin\Debug\F2C.pdb
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\obj\Debug\F2C.csprojAssemblyReference.cache
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\obj\Debug\F2C.Form1.resources
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\obj\Debug\F2C.Properties.Resources.resources
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\obj\Debug\F2C.csproj.GenerateResource.cache
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\obj\Debug\F2C.csproj.CoreCompileInputs.cache
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\obj\Debug\F2C.exe
+C:\Users\小小夢蘿莉\Desktop\F2C\F2C\obj\Debug\F2C.pdb
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\bin\Debug\F2C.exe.config
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\bin\Debug\F2C.exe
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\bin\Debug\F2C.pdb
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\obj\Debug\F2C.csprojAssemblyReference.cache
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\obj\Debug\F2C.Form1.resources
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\obj\Debug\F2C.Properties.Resources.resources
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\obj\Debug\F2C.csproj.GenerateResource.cache
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\obj\Debug\F2C.csproj.CoreCompileInputs.cache
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\obj\Debug\F2C.exe
+C:\Users\小小夢蘿莉\Desktop\visual c# 2017基礎必修課-範例\Session 3\TryDemo\F2C\obj\Debug\F2C.pdb

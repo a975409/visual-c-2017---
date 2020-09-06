@@ -1,0 +1,10 @@
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\bin\Debug\Movie Ticket.exe.config
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\bin\Debug\Movie Ticket.exe
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\bin\Debug\Movie Ticket.pdb
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\obj\Debug\Movie Ticket.csprojAssemblyReference.cache
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\obj\Debug\Movie_Ticket.Form1.resources
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\obj\Debug\Movie_Ticket.Properties.Resources.resources
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\obj\Debug\Movie Ticket.csproj.GenerateResource.cache
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\obj\Debug\Movie Ticket.csproj.CoreCompileInputs.cache
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\obj\Debug\Movie Ticket.exe
+D:\C#練習題\visual c# 2017基礎必修課-範例\Session 4\Movie Ticket\Movie Ticket\obj\Debug\Movie Ticket.pdb

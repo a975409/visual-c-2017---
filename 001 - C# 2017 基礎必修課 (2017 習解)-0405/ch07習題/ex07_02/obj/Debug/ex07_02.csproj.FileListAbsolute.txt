@@ -1,0 +1,8 @@
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_02\bin\Debug\ex07_02.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_02\bin\Debug\ex07_02.exe
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_02\bin\Debug\ex07_02.pdb
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_02\obj\Debug\ex07_02.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_02\obj\Debug\ex07_02.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_02\obj\Debug\ex07_02.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_02\obj\Debug\ex07_02.exe
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch07\ch07習題\ex07_02\obj\Debug\ex07_02.pdb

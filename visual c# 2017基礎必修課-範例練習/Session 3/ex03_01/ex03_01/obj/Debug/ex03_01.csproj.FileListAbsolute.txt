@@ -1,0 +1,10 @@
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\bin\Debug\ex03_01.exe.config
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\bin\Debug\ex03_01.exe
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\bin\Debug\ex03_01.pdb
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\obj\Debug\ex03_01.csprojAssemblyReference.cache
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\obj\Debug\ex03_01.Form1.resources
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\obj\Debug\ex03_01.Properties.Resources.resources
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\obj\Debug\ex03_01.csproj.GenerateResource.cache
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\obj\Debug\ex03_01.csproj.CoreCompileInputs.cache
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\obj\Debug\ex03_01.exe
+C:\Users\小小夢蘿莉\Desktop\ex03_01\ex03_01\obj\Debug\ex03_01.pdb

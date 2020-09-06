@@ -1,0 +1,9 @@
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\bin\Debug\ex05_02b.exe.config
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\bin\Debug\ex05_02b.exe
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\bin\Debug\ex05_02b.pdb
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\obj\Debug\ex05_02b.csprojResolveAssemblyReference.cache
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\obj\Debug\ex05_02b.Form1.resources
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\obj\Debug\ex05_02b.Properties.Resources.resources
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\obj\Debug\ex05_02b.csproj.GenerateResource.Cache
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\obj\Debug\ex05_02b.exe
+D:\03基礎必修課\C#基礎必修課\C#2017基礎必修課\ch05\ch05習題\ex05_02b\obj\Debug\ex05_02b.pdb
