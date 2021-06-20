@@ -1,0 +1,40 @@
+C# 筆記(.NET)
+
+//1.取得目前執行程式所在目錄：
+Directory.GetCurrentDirectory();
+
+//2.取得不同作業系統的特殊目錄(Windows、macOS、Linux、iOS 與 Android )：
+(1)取得"我的文件"為例：
+string docPath = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
+
+//3.特殊路徑字元：
+/*
+不同作業系統會使用不同的字元來分隔目錄層級。
+
+例如，Windows 使用反斜線 stores\201，而 macOS 使用正斜線 stores/201。
+
+為了協助您使用正確的字元，Path 類別包含 DirectorySeparatorChar 欄位。
+
+需要手動建置路徑時，.NET 會自動將該欄位解譯為每個作業系統特定的分隔符號字元。
+*/
+
+Console.WriteLine($"stores{Path.DirectorySeparatorChar}201");
+// returns:
+// stores\201 on Windows
+//
+// stores/201 on macOS
+
+//4.聯結路徑
+Console.WriteLine(Path.Combine("stores","201")); // outputs: stores/201
+
+//5.判斷副檔名(輸入參數為檔名 or 完整檔案路徑)
+Console.WriteLine(Path.GetExtension("sales.json")); // outputs: .json
+
+//6.取得該檔案詳細資訊，範例如下：
+(Environment.NewLine為換行字元)
+
+string fileName = @"D:\OneDrive\圖片\14702426_957905284350804_228753905805987427_n.jpg";
+
+FileInfo fileInfo = new FileInfo(fileName);
+
+Console.WriteLine($"Full Name:{fileInfo.FullName}{Environment.NewLine}Directory:{fileInfo.Directory}{Environment.NewLine}");

@@ -1,0 +1,10 @@
+C# 筆記(.NET)
+
+//1.建立目錄
+Directory.CreateDirectory();
+
+//2.檢查目錄是否存在
+bool doesDirectoryExists = Directory.Exists(filePath);
+
+//3.建立文字檔
+File.WriteAllText(Path.Combine(Directory.GetCurrentDirectory(), "greeting.txt"), "Hello World!");

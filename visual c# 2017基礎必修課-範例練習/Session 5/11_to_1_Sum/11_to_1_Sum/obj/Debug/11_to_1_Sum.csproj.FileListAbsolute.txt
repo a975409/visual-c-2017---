@@ -1,6 +1,0 @@
-D:\C#練習題\visual c# 2017基礎必修課-範例\Session 5\11_to_1_Sum\11_to_1_Sum\bin\Debug\11_to_1_Sum.exe.config
-D:\C#練習題\visual c# 2017基礎必修課-範例\Session 5\11_to_1_Sum\11_to_1_Sum\bin\Debug\11_to_1_Sum.exe
-D:\C#練習題\visual c# 2017基礎必修課-範例\Session 5\11_to_1_Sum\11_to_1_Sum\bin\Debug\11_to_1_Sum.pdb
-D:\C#練習題\visual c# 2017基礎必修課-範例\Session 5\11_to_1_Sum\11_to_1_Sum\obj\Debug\11_to_1_Sum.csproj.CoreCompileInputs.cache
-D:\C#練習題\visual c# 2017基礎必修課-範例\Session 5\11_to_1_Sum\11_to_1_Sum\obj\Debug\11_to_1_Sum.exe
-D:\C#練習題\visual c# 2017基礎必修課-範例\Session 5\11_to_1_Sum\11_to_1_Sum\obj\Debug\11_to_1_Sum.pdb

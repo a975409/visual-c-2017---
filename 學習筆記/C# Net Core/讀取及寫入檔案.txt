@@ -1,0 +1,25 @@
+C# 筆記(.NET)
+
+//1.從檔案讀取資料
+File.ReadAllText($"stores{Path.DirectorySeparatorChar}201{Path.DirectorySeparatorChar}sales.json");
+
+//2.讀取JSON 檔案
+
+//使用 NuGet 將 Json.NET 套件新增至專案
+dotnet add package Newtonsoft.Json
+
+//將 using Newtonsoft.Json 新增至類別檔案的頂端，然後使用 JsonConvert.DeserializeObject 方法
+class SalesTotal
+{
+  public double Total { get; set; }
+}
+
+var data = JsonConvert.DeserializeObject<SalesTotal>($"stores{Path.DirectorySeparatorChar}201{Path.DirectorySeparatorChar}sales.json");
+
+Console.WriteLine(data.Total);
+
+//3.寫入文字檔(檔案如果存在，就直接複寫)
+File.WriteAllText(Path.Combine(Directory.GetCurrentDirectory(), "greeting.txt"), "Hello World!");
+
+//4.將資料寫入至文字檔(保留原本檔案內容，並將資料往後遞增)
+File.AppendAllText("123");
