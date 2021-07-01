@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "eaf93f810aecafd0",
+    "type": "split",
+    "children": [
+      {
+        "id": "8457dbbd457b19aa",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "刪除資料.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7660874bb5d395bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d7936d22d60370a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "707656acde7da6c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "93834bb4ad641e8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 422
+  },
+  "right": {
+    "id": "82c64ec026b3f29f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4bda7ee0220b6a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5136e4a5d17453d2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "刪除資料.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8457dbbd457b19aa",
+  "lastOpenFiles": [
+    "刪除資料.md",
+    "刪除資料表.md",
+    "刪除資料庫.md",
+    "更新資料.md",
+    "注意事項.md",
+    "測試 CASCADE 模式.md",
+    "測試 SET NULL模式.md",
+    "新增&使用資料庫.md",
+    "新增資料表.md",
+    "Where條件判斷.md"
+  ]
+}
