@@ -1,3 +1,5 @@
+using System;
+using System.Linq;
 using System.Collections.Generic;
 using static System.Console;
 
@@ -6,74 +8,60 @@ namespace ConsoleApp1
 
     class Program
     {
-        static int size = 6;
-        static int[] data = new int[size];
+        static int process = 0;
+        static int[] data = { 59, 95, 7, 34, 60, 168, 171, 259, 372, 45, 88, 133 };
 
         static void Main(string[] args)
         {
-            Inputarr();
-            Write("您輸入的原始陣列是：");
-            ShowArr();
-            SortData();
-            Write("排序後的陣列是：");
-            ShowArr();
+            WriteLine("原始資料：");
+            Showdata();
+            SortData(data);
+            WriteLine("排序後資料：");
+            Showdata();
             ReadKey();
         }
 
-        static void Inputarr()
+        static void Showdata()
         {
-            for (int i = 0; i < size; i++)
-            {
-                int value;
-                Write("請輸入第" + (i + 1) + "個元素：");
-
-                while(!int.TryParse(ReadLine(), out value))
-                {
-                    WriteLine("輸入錯誤!!!請重新輸入");
-                    Write("請輸入第" + (i + 1) + "個元素：");
-                }
-                data[i] = value;
-            }
-        }
-
-        static void ShowArr()
-        {
-            foreach (int a in data)
-                Write(a + " ");
+            foreach (int i in data)
+                Write(i + " ");
             WriteLine();
         }
 
-        static void SortData()
+        static void SortData(int[] data)
         {
             LinkedList<int> result = new LinkedList<int>();
-            LinkedListNode<int> listed = null;
-            for (int i = 0; i < data.Length; i++)
+
+            LinkedListNode<int> CurrentNode = null;
+
+            foreach(int item in data)
             {
-                if (result.Count == 0)
-                    result.AddFirst(data[i]);
+                if(result.Count==0)
+                {
+                    CurrentNode = result.AddFirst(item);
+                }
                 else
                 {
-                    while (listed != null)
+
+                    while (CurrentNode != null)
                     {
-                        if (data[i] < listed.Value)
+                        if (item < CurrentNode.Value)
                         {
-                            result.AddBefore(listed, data[i]);
+                            result.AddBefore(CurrentNode, item);
+                            break;
+                        }
+                        else if(CurrentNode.Next==null)
+                        {
+                            result.AddAfter(CurrentNode, item);
                             break;
                         }
                         else
-                        {
-                            if (listed.Next == null)
-                            {
-                                result.AddAfter(listed, data[i]);
-                                break;
-                            }
-                            else
-                                listed = listed.Next;
-                        }
+                            CurrentNode = CurrentNode.Next;
                     }
                 }
-                listed = result.First;
+                CurrentNode = result.First;
             }
+
             result.CopyTo(data, 0);
         }
     }

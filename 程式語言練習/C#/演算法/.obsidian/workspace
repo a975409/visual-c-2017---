@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "eaf93f810aecafd0",
+    "id": "8efa277872d16ee2",
     "type": "split",
     "children": [
       {
-        "id": "bc13e1156f1e06da",
+        "id": "2ff21fe0cfeb2a14",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "堆積排序法.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7660874bb5d395bb",
+    "id": "d11426365b5ec1d9",
     "type": "split",
     "children": [
       {
-        "id": "3d7936d22d60370a",
+        "id": "21cd7a25fd641241",
         "type": "tabs",
         "children": [
           {
-            "id": "707656acde7da6c5",
+            "id": "10cc63ba360dfe71",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "93834bb4ad641e8f",
+            "id": "2c5a3ed487074822",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,22 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422
+    "width": 300
   },
   "right": {
-    "id": "82c64ec026b3f29f",
+    "id": "881cc6844687ce84",
     "type": "split",
     "children": [
       {
-        "id": "f4bda7ee0220b6a9",
+        "id": "123ee092ebda365b",
         "type": "tabs",
         "children": [
           {
-            "id": "5136e4a5d17453d2",
+            "id": "7b61482881b3ec9d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "堆積排序法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,8 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc13e1156f1e06da",
+  "active": "2ff21fe0cfeb2a14",
   "lastOpenFiles": [
-    "新增資料表.md",
-    "刪除資料.md",
-    "刪除資料表.md",
-    "刪除資料庫.md",
-    "更新資料.md",
-    "注意事項.md",
-    "測試 CASCADE 模式.md",
-    "測試 SET NULL模式.md",
-    "新增&使用資料庫.md",
-    "Where條件判斷.md"
+    "未命名.md"
   ]
 }

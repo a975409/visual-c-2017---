@@ -30,13 +30,16 @@ namespace ConsoleApp1
 
         static void SortData(int[] data)
         {
+            int minValue, tmp, minIdx;
             bool change;
-            int minValue, minIdx = -1;
+
             for (int i = 1; i < data.Length; i++)
             {
-                change = false;
                 minValue = data[i - 1];
-                for (int j = i - 1; j < data.Length; j++)
+                minIdx = i - 1;
+                change = false;
+
+                for (int j = i; j < data.Length; j++)
                 {
                     if (data[j] < minValue)
                     {
@@ -48,12 +51,10 @@ namespace ConsoleApp1
 
                 if(change)
                 {
-                    data[minIdx] = data[i - 1];
-                    data[i - 1] = minValue;
+                    tmp = data[i - 1];
+                    data[i - 1] = data[minIdx];
+                    data[minIdx] = tmp;
                 }
-
-                Write($"第{++process}次排序：");
-                Showdata();
             }
         }
     }

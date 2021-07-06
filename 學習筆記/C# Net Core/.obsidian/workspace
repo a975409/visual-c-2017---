@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "eaf93f810aecafd0",
+    "id": "c76263f0713410cb",
     "type": "split",
     "children": [
       {
-        "id": "bc13e1156f1e06da",
+        "id": "05dd757ad91c6b86",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "7660874bb5d395bb",
+    "id": "419c9205c6c2cb5c",
     "type": "split",
     "children": [
       {
-        "id": "3d7936d22d60370a",
+        "id": "46553f6bae837b28",
         "type": "tabs",
         "children": [
           {
-            "id": "707656acde7da6c5",
+            "id": "a16cc78ee3956e1a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "93834bb4ad641e8f",
+            "id": "328ad663de32575d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,18 +49,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422
+    "width": 300
   },
   "right": {
-    "id": "82c64ec026b3f29f",
+    "id": "8a8bc6ea9cc2554b",
     "type": "split",
     "children": [
       {
-        "id": "f4bda7ee0220b6a9",
+        "id": "e74a95498ece37ff",
         "type": "tabs",
         "children": [
           {
-            "id": "5136e4a5d17453d2",
+            "id": "344c7e6d2d899e58",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -82,17 +82,6 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc13e1156f1e06da",
-  "lastOpenFiles": [
-    "新增資料表.md",
-    "刪除資料.md",
-    "刪除資料表.md",
-    "刪除資料庫.md",
-    "更新資料.md",
-    "注意事項.md",
-    "測試 CASCADE 模式.md",
-    "測試 SET NULL模式.md",
-    "新增&使用資料庫.md",
-    "Where條件判斷.md"
-  ]
+  "active": "05dd757ad91c6b86",
+  "lastOpenFiles": []
 }

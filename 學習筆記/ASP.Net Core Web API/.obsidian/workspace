@@ -1,29 +1,32 @@
 {
   "main": {
-    "id": "eaf93f810aecafd0",
+    "id": "35df3b141cb3a844",
     "type": "split",
     "children": [
       {
-        "id": "bc13e1156f1e06da",
+        "id": "3f5da0ee8fd5a525",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "使用MSSQL資料庫連線.md",
+            "mode": "source"
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "7660874bb5d395bb",
+    "id": "144cf8b886266533",
     "type": "split",
     "children": [
       {
-        "id": "3d7936d22d60370a",
+        "id": "7c3fb7dab3c74318",
         "type": "tabs",
         "children": [
           {
-            "id": "707656acde7da6c5",
+            "id": "9f941d97cc2776b8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +34,7 @@
             }
           },
           {
-            "id": "93834bb4ad641e8f",
+            "id": "788e8620bbbab52a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -49,22 +52,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422
+    "width": 311.5
   },
   "right": {
-    "id": "82c64ec026b3f29f",
+    "id": "817b9c21d43fb3fc",
     "type": "split",
     "children": [
       {
-        "id": "f4bda7ee0220b6a9",
+        "id": "438a951b923c0e29",
         "type": "tabs",
         "children": [
           {
-            "id": "5136e4a5d17453d2",
+            "id": "4b61c605ceed6fbf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "使用MSSQL資料庫連線.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "bc13e1156f1e06da",
+  "active": "3f5da0ee8fd5a525",
   "lastOpenFiles": [
-    "新增資料表.md",
-    "刪除資料.md",
-    "刪除資料表.md",
-    "刪除資料庫.md",
-    "更新資料.md",
-    "注意事項.md",
-    "測試 CASCADE 模式.md",
-    "測試 SET NULL模式.md",
-    "新增&使用資料庫.md",
-    "Where條件判斷.md"
+    "使用MSSQL資料庫連線.md",
+    "Api網址格式.md",
+    "使用MySQL資料庫連線.md",
+    "如何使用資料庫物件.md",
+    "未命名.md",
+    "使用Mysql資料庫連線.md",
+    "建立與資料庫連線.md",
+    "ASP.Net Core Web API使用Mysql資料庫.md",
+    "康廷數位_ .NET SQL Server 連線字串.pdf",
+    "ASP.NET Core Web API 入門教學 - 資料庫連線設定 Database First,Scaffold-DbContext Build Failed解決方式.pdf"
   ]
 }
