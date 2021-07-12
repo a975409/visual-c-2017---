@@ -7,8 +7,11 @@
         "id": "bc13e1156f1e06da",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "刪除資料表指定內容.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "刪除資料表指定內容.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +88,15 @@
   },
   "active": "bc13e1156f1e06da",
   "lastOpenFiles": [
-    "新增資料表.md",
-    "刪除資料.md",
+    "刪除資料表指定內容.md",
     "刪除資料表.md",
-    "刪除資料庫.md",
-    "更新資料.md",
-    "注意事項.md",
-    "測試 CASCADE 模式.md",
-    "測試 SET NULL模式.md",
-    "新增&使用資料庫.md",
-    "Where條件判斷.md"
+    "MySQL參考網站.md",
+    "新增資料表.md",
+    "alter table修改資料表定義相關函數.md",
+    "指令執行順序.md",
+    "未命名.md",
+    "列出資料表所有資料.md",
+    "在資料表新增資料.md",
+    "測試 CASCADE 模式.md"
   ]
 }
